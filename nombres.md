@@ -4,6 +4,6 @@
 2. Erik Soza agregado desde mi rama "eriksz"
 3. Claudio Hernández desde mi rama ch
 4. Tomás Valenzuela desde mi rama "Tomitox"
-5.
+5. Nicolás Cuadra
 6.
 7.
